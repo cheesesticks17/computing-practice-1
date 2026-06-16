@@ -38,6 +38,4 @@ def num_paths(m: int, n: int) -> int:
 if __name__ == '__main__': #just for testing and bugfixing
     print(num_paths(2, 2))  # Output: 6
     print(num_paths(1, 1))  # Output: 2
-    print(num_paths(3, 2))  # Output: 10
-    print(num_paths(0, 5))
     pass
